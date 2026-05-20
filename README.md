@@ -1,62 +1,118 @@
-# Olá, eu sou o Edson Rodrigues! 👋
+<div align="center">
 
-Atualmente atuo no desenvolvimento de soluções de software, engenharia de dados e automação backend. Utilizo tecnologia para resolver gargalos operacionais complexos, integrar sistemas de grande porte via APIs e estruturar ecossistemas relacionais robustos.
+# Edson Rodrigues 👨‍💻
 
-Estou focado em **Engenharia de Software Backend**, direcionando minha evolução técnica para sistemas de alta escala, resiliência e integridade de dados — com foco no setor financeiro.
+### Backend • Automação • Integrações • Engenharia de Dados
 
----
+Desenvolvendo soluções para automação de processos, sistemas transacionais e integrações entre plataformas.  
+Foco em **Engenharia de Software Backend**, arquitetura escalável e construção de aplicações orientadas a dados.
 
-### 💻 Minhas Tech Stacks
+<br>
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Linguagens & Frameworks** | Python (Flask), Java, JavaScript |
-| **Bancos de Dados** | MySQL, SQLite, Modelagem Relacional (ACID & Normalização) |
-| **DevOps & Nuvem** | Git, GitHub, Microsoft Azure |
-| **Arquitetura & Integrações** | APIs RESTful, Webhooks, Parsing de JSON, Pipelines n8n |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-rodrigues-5a1a46345)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er4273270@gmail.com)
 
----
-
-### 🚀 Projetos em Destaque
-
-#### 📋 [Sistema RDO Web — Engine Backend](https://github.com/werneckx/Projeto-Relatorio-Diario-de-Obra)
-Uma plataforma modular em Python projetada para automação e centralização de fluxos de dados transacionais de campo.
-* **Stack:** Python, Flask, MySQL, Git.
-* **Destaques Técnicos:** Arquitetura estruturada sob o padrão MVC, isolamento de regras de negócio, validação estrita de payloads JSON e controle de concorrência relacional.
-
-#### ☕ [Desbloqueador de Planilhas Corporativas](https://github.com/werneckx/Desbloqueador_Planilhas_Java)
-Solução desenvolvida em Java focada em automação de infraestrutura local e engenharia reversa de permissões em arquivos de dados.
-* **Stack:** Java (OpenJDK).
-* **Destaques Técnicos:** Manipulação de streams de arquivos, algoritmos de leitura de bytes estruturados e otimização de rotinas de automação desktop.
+</div>
 
 ---
 
-### 📊 Estatísticas e Desempenho
+## 🚀 Stack Tecnológica
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=werneckx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=werneckx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=werneckx&theme=dark&hide_border=false" height="180em" />
-</p>
+### Linguagens & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,flask,java,javascript"/>
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,azure"/>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</div>
 
 ---
 
-### 🏆 Troféus de Contribuição
+## 📌 Projetos em Destaque
 
-[![Troféus do Edson](https://github-profile-trophy.vercel.app/?username=werneckx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+### 📋 Sistema RDO Web
+Sistema web para gestão e automação de Relatórios Diários de Obra.
+
+**Stack**
+`Python` `Flask` `MySQL`
+
+**Destaques**
+- Arquitetura MVC
+- Workflow de aprovação
+- Controle relacional
+- Dashboard operacional
+- APIs internas
+
+🔗 Projeto:  
+https://github.com/werneckx/Projeto-Relatorio-Diario-de-Obra
 
 ---
 
-### 🌐 Conecte-se Comigo
+### ☕ Desbloqueador de Planilhas Corporativas
 
-<p align="left">
-  <a href="https://linkedin.com/in/edson-rodrigues-5a1a46345" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:er4273270@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+Ferramenta Java voltada para automação local e manipulação estruturada de arquivos.
+
+**Stack**
+`Java`
+
+**Destaques**
+- Processamento de arquivos
+- Manipulação de bytes
+- Automação desktop
+
+🔗 Projeto:  
+https://github.com/werneckx/Desbloqueador_Planilhas_Java
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=werneckx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werneckx&layout=compact&theme=tokyonight"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=werneckx&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+[![Troféus](https://github-profile-trophy.vercel.app/?username=werneckx&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=werneckx&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Transformando processos em soluções escaláveis"
+
+</div>
