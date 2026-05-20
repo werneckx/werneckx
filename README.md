@@ -12,6 +12,8 @@ Foco em **Engenharia de Software Backend**, arquitetura escalável e construçã
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-rodrigues-5a1a46345)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er4273270@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=werneckx&label=Visualizações&color=0e75b6&style=flat"/>
+
 </div>
 
 ---
@@ -20,27 +22,7 @@ Foco em **Engenharia de Software Backend**, arquitetura escalável e construçã
 
 <div align="center">
 
-### Linguagens & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,flask,java,javascript"/>
-
-<br><br>
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-<br><br>
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,azure"/>
-
-<br><br>
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,flask,java,javascript,mysql,sqlite,git,github,azure,vscode,postman&perline=11"/>
 
 </div>
 
@@ -58,12 +40,12 @@ Sistema web desenvolvido para centralização e automação de Relatórios Diár
 **Destaques**
 - Arquitetura MVC
 - Workflow de aprovação
-- Controle relacional
-- Dashboard operacional
+- Controle de permissões
 - APIs internas
-- Controle de permissões e usuários
+- Dashboard operacional
+- Controle relacional
 
-🔗 **Projeto:**  
+🔗 **Projeto**
 
 [![Projeto RDO](https://img.shields.io/badge/Acessar-Projeto_RDO-blue?style=for-the-badge)](https://github.com/werneckx/Projeto-Relatorio-Diario-de-Obra)
 
@@ -71,7 +53,7 @@ Sistema web desenvolvido para centralização e automação de Relatórios Diár
 
 ### ☕ Desbloqueador de Planilhas Corporativas
 
-Ferramenta desenvolvida para automação local e manipulação estruturada de arquivos.
+Ferramenta desenvolvida em Java para automação local e manipulação estruturada de arquivos.
 
 **Stack**  
 `Java`
@@ -79,10 +61,10 @@ Ferramenta desenvolvida para automação local e manipulação estruturada de ar
 **Destaques**
 - Processamento de arquivos
 - Manipulação de bytes
+- Leitura estruturada
 - Automação desktop
-- Leitura estruturada de dados
 
-🔗 **Projeto:**  
+🔗 **Projeto**
 
 [![Projeto Java](https://img.shields.io/badge/Acessar-Projeto_Java-orange?style=for-the-badge)](https://github.com/werneckx/Desbloqueador_Planilhas_Java)
 
@@ -123,27 +105,5 @@ Ferramenta desenvolvida para automação local e manipulação estruturada de ar
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=werneckx&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Tecnologias em Evolução
-
-```text
-Backend Engineering ███████████░░░ 75%
-Python/Flask       █████████████░░ 85%
-Banco de Dados     ███████████░░░░ 70%
-Automação          ██████████████░ 90%
-Cloud & DevOps     ████████░░░░░░░ 55%
-```
-
----
-
-<div align="center">
-
-### "Transformando processos em soluções escaláveis"
-
-<img src="https://komarev.com/ghpvc/?username=werneckx&label=Visualizações&color=0e75b6&style=flat"/>
 
 </div>
