@@ -1,109 +1,140 @@
+# 👋 Olá! Eu sou o Edson Rodrigues
+
+### Backend Developer • Automação • Integrações • Engenharia de Dados
+
+<p align="left">
+
+Desenvolvedor focado em construir **soluções corporativas**, automatizar processos e integrar sistemas.
+
+Atualmente desenvolvo aplicações utilizando **Python**, **Flask**, **SQL**, **Power Platform** e **Oracle NetSuite**, criando ferramentas que reduzem atividades manuais, aumentam a produtividade e tornam processos mais inteligentes.
+
+🎯 Interesse em Backend • Arquitetura de Software • APIs • Dados • Automação
+
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,java,javascript,html,css,mysql,docker,git,github"/>
+
+</p>
+
+</p>
+
+---
+
+# 📌 Projetos
+
+## Plataforma SaaS para Gestão de Obras - Nosde System RDO
+
+Sistema completo para gerenciamento de obras e emissão de RDO.
+
+### Principais recursos
+
+* Multiempresa
+* Workflow de Aprovação
+* Upload de Fotos
+* Controle de Permissões
+* APIs
+* Dashboards
+* Relatórios PDF
+* Gestão de Usuários
+
+**Tecnologias**
+
+Python • Flask • MySQL • Docker • JavaScript
+
 <div align="center">
 
-# Edson Rodrigues 👨‍💻
-
-### Backend • Automação • Integrações • Engenharia de Dados
-
-Desenvolvendo soluções para automação de processos, sistemas transacionais e integrações entre plataformas.  
-Foco em **Engenharia de Software Backend**, arquitetura escalável e construção de aplicações orientadas a dados.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-rodrigues-5a1a46345)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er4273270@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=werneckx&label=Visualizações&color=0e75b6&style=flat"/>
+[![Projeto](https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge\&logo=github)](https://github.com/werneckx/Projeto-Relatorio-Diario-de-Obra)
 
 </div>
 
 ---
 
-## 🚀 Stack Tecnológica
+## Sistema de Gestão de Suprimentos
 
-<div align="center">
+Aplicação desenvolvida utilizando Microsoft Power Platform para gerenciamento de materiais.
 
-<img src="https://skillicons.dev/icons?i=python,flask,java,javascript,mysql,sqlite,git,github,azure,vscode,postman&perline=11"/>
+### Recursos
 
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-### 📋 Sistema RDO Web
-
-Sistema web desenvolvido para centralização e automação de Relatórios Diários de Obra, integrando controle operacional, workflows e indicadores de acompanhamento.
-
-**Stack**  
-`Python` `Flask` `MySQL`
-
-**Destaques**
-- Arquitetura MVC
-- Workflow de aprovação
-- Controle de permissões
-- APIs internas
-- Dashboard operacional
-- Controle relacional
-
-🔗 **Projeto**
-
-[![Projeto RDO](https://img.shields.io/badge/Acessar-Projeto_RDO-blue?style=for-the-badge)](https://github.com/werneckx/Projeto-Relatorio-Diario-de-Obra)
+* Requisições
+* Aprovações
+* Estoque
+* SharePoint
+* Teams
+* Automação
 
 ---
 
-### ☕ Desbloqueador de Planilhas Corporativas
+## Integrações ERP
 
-Ferramenta desenvolvida em Java para automação local e manipulação estruturada de arquivos.
+Automação entre sistemas corporativos e Oracle NetSuite.
 
-**Stack**  
-`Java`
+### Recursos
 
-**Destaques**
-- Processamento de arquivos
-- Manipulação de bytes
-- Leitura estruturada
-- Automação desktop
-
-🔗 **Projeto**
-
-[![Projeto Java](https://img.shields.io/badge/Acessar-Projeto_Java-orange?style=for-the-badge)](https://github.com/werneckx/Desbloqueador_Planilhas_Java)
+* Cadastro automático
+* APIs REST
+* Consulta CNPJ
+* Logs
+* Retry
+* n8n
+* Docker
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Dashboards
 
-<div align="center">
+Indicadores para gestão operacional.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=werneckx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werneckx&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=werneckx&theme=tokyonight"/>
-
-</div>
+* Lead Time
+* KPIs
+* Power BI
+* SQL
+* Power Query
 
 ---
 
-## 🏆 Conquistas
+# 📈 GitHub
 
-<div align="center">
+<p align="center">
 
-[![Troféus](https://github-profile-trophy.vercel.app/?username=werneckx&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=werneckx&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-## 📈 Atividade
+# 📊 Contribuições
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=werneckx&theme=tokyo-night&hide_border=true"/>
 
+</p>
+
+---
+
+# 🎯 Atualmente estudando
+
+* Arquitetura de Software
+* Design Patterns
+* APIs REST
+* Docker
+* Testes Automatizados
+* SQL Avançado
+* Microsserviços
+* Engenharia de Dados
+
+---
+
+# 🌎 Onde me encontrar
+
+<div> 
+  <a href="https://instagram.com/werneckx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:er4273270@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edson-rodrigues-5a1a46345" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
