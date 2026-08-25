@@ -91,7 +91,7 @@ Python • Flask • MySQL • Docker • JavaScript
 
 **Full Stack Development**
 
-HTML5 & CSS3 • JavaScript • React • Node.js • PostgreSQL • APIs • HTTP
+JavaScript • React • Node.js • PostgreSQL
 
 ---
 
