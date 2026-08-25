@@ -1,14 +1,14 @@
-<h1 align="center"> 👋 Olá! Eu sou o Edson Rodrigues </h1>
+<h1 align="center">👋 Olá! Eu sou o Edson Rodrigues</h1>
 
-<h3 align="center"> Backend Developer • Full Stack • Automação • Integrações • Dados </h3>
+<h3 align="center">Backend Developer • Automação • Integrações • Dados</h3>
 
 <p align="left">
 
-Desenvolvedor focado em **Backend, Automação e Integração de Sistemas**, criando soluções corporativas que simplificam processos e aumentam a produtividade.
+Desenvolvedor focado em **Backend, Automação e Integração de Sistemas**, criando soluções corporativas para otimizar processos e reduzir atividades manuais.
 
-Atualmente trabalho com **Python, Flask, SQL, Power Platform e Oracle NetSuite**, desenvolvendo aplicações, automações e integrações para otimizar operações e reduzir tarefas manuais.
+Atualmente trabalho com **Python, Flask, SQL, Power Platform e Oracle NetSuite**, desenvolvendo aplicações, automações e integrações voltadas à produtividade e eficiência operacional.
 
-🎯 **Interesses:** Backend • APIs • Arquitetura de Software • Dados • Automação • Integrações
+🎯 **Interesses:** Backend • APIs • Integrações • Dados • Automação • Arquitetura de Software
 
 </p>
 
@@ -17,46 +17,51 @@ Atualmente trabalho com **Python, Flask, SQL, Power Platform e Oracle NetSuite**
 ## 🚀 Tecnologias
 
 ### Linguagens
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ### Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=flask,react,nodejs" />
 </p>
 
-### Ferramentas & Plataformas
+### Ferramentas
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
+
+**Plataformas:** Microsoft Power Platform • Oracle NetSuite
 
 ---
 
 # 📌 Projetos
 
-## Plataforma SaaS para Gestão de Obras - Nosde System RDO
+## Plataforma SaaS para Gestão de Obras — Nosde System RDO
 
-Sistema completo para gerenciamento de obras e emissão de RDO.
+Sistema completo para gerenciamento de obras e emissão de Registro Diário de Obra (RDO).
 
 ### Principais recursos
 
-* Multiempresa
-* Workflow de Aprovação
-* Upload de Fotos
-* Controle de Permissões
-* APIs
-* Dashboards
-* Relatórios PDF
-* Gestão de Usuários
+- Multiempresa
+- Workflow de aprovação
+- Upload de fotos
+- Controle de permissões
+- APIs
+- Dashboards
+- Relatórios em PDF
+- Gestão de usuários
 
-**Tecnologias Utilizadas**
+**Tecnologias utilizadas**
 
 Python • Flask • MySQL • Docker • JavaScript
 
 <div align="center">
 
-[![Projeto](https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge\&logo=github)](https://github.com/werneckx/Projeto-Relatorio-Diario-de-Obra)
+[![Projeto](https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/werneckx/Projeto-Relatorio-Diario-de-Obra)
 
 </div>
 
@@ -86,21 +91,20 @@ Python • Flask • MySQL • Docker • JavaScript
 
 **Full Stack Development**
 
-- HTML5 & CSS3
-- JavaScript
-- React
-- Node.js & Express
-- SQL & PostgreSQL
-- APIs e HTTP
-- Git & GitHub
-- Deploy e projetos práticos
-  
+HTML5 & CSS3 • JavaScript • React • Node.js • PostgreSQL • APIs • HTTP
+
 ---
 
 # 🌎 Onde me encontrar
 
-<div> 
-  <a href = "mailto:er4273270@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edson-rodrigues-5a1a46345" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<div>
 
+<a href="mailto:er4273270@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/edson-rodrigues-5a1a46345" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
