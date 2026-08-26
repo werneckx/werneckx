@@ -66,10 +66,11 @@ SaaS para **gestão de obras e digitalização do Registro Diário de Obra**.
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=werneckx&theme=github_dark" alt="Estatísticas do GitHub de Edson Rodrigues" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=werneckx&theme=github_dark" alt="Linguagens dos repositórios públicos de Edson Rodrigues" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=werneckx&theme=github_white" />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=werneckx&theme=github_dark" alt="Resumo das contribuições de Ayslan Victor" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=werneckx&theme=github_white" />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=werneckx&theme=github_white" />
 
 </div>
 
