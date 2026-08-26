@@ -15,24 +15,23 @@ Atualmente trabalho com **Python, Flask, SQL, Power Platform e Oracle NetSuite**
 ---
 
 ## ⚙️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-**Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
+  
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=python,javascript,mysql,html,css">
+    </td>
+    <td align="center">
+      <strong>Frameworks</strong><br>
+      <img src="https://skillicons.dev/icons?i=flask,nodejs,react,electron">
+    </td>
+    <td align="center">
+      <strong>Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,windows,vscode,postman">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,9 +64,14 @@ SaaS para **gestão de obras e digitalização do Registro Diário de Obra**.
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=werneckx&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=werneckx&theme=github_dark" alt="Estatísticas do GitHub de Edson Rodrigues" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=werneckx&theme=github_dark" alt="Linguagens dos repositórios públicos de Edson Rodrigues" />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=werneckx&theme=github_dark" alt="Resumo das contribuições de Ayslan Victor" />
+
+</div>
 
 ---
 
